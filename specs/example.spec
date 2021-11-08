@@ -35,8 +35,8 @@ Login Sayfası
 --------------
 
 * "2" saniye bekle
-* "etEposta" id'li elemente "aylinmorea@gmail.com" değerini yaz
-* "etPassword" id'li elemente "aylinmorea1" değerini yaz
+* "etEposta" id'li elemente "usermail@email.com" değerini yaz
+* "etPassword" id'li elemente "userpassword" değerini yaz
 * "btnLogin" Id'li elemente tıkla
 * "ivBack" Id'li elemente tıkla
 * "ivBack" Id'li elemente tıkla
